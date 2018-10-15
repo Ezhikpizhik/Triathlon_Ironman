@@ -1,5 +1,7 @@
 # The Nerd’s Guide to Triathlon or Data Analysis of the Olympic Ironman
 
+Read the full article [@Medium] (https://medium.com/@larushkalmy/the-nerds-guide-to-triathlon-25e1daa90571)
+
 What i learned from doing triathlon and analyzing the race data:
 
 - The significance test showed with 95% confidence that the population gender difference in total race time is between 10 and 20 mins.
