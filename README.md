@@ -1,7 +1,8 @@
 # The Nerd’s Guide to Triathlon or Data Analysis of the Olympic Ironman 
+
 :swimmer::bicyclist::runner:
 
-:point_up: Read the full article [@Medium](https://medium.com/@larushkalmy/the-nerds-guide-to-triathlon-25e1daa90571)
+:grey_exclamation: Read the full article [@Medium](https://medium.com/@larushkalmy/the-nerds-guide-to-triathlon-25e1daa90571)
 
 What i learned from doing triathlon and analyzing the race data:
 
