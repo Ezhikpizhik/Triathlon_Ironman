@@ -1,6 +1,6 @@
-# Triathlon_ironman
+# The Nerd’s Guide to Triathlon or Data Analysis of the Olympic Ironman
 
-What i learned from doing triathlon and analyzing the race data
+What i learned from doing triathlon and analyzing the race data:
 
 - The significance test showed with 95% confidence that the population gender difference in total race time is between 10 and 20 mins.
 - Hypothesis testing for difference in means of total time by gender confirmed that men finish the race faster (stat. sig.).
