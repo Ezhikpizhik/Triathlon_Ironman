@@ -13,3 +13,4 @@ What i learned from doing triathlon and analyzing the race data:
 - If the median duration of each activity was the same, let’s say 1 hour, one would have to emphasize the performance in running and swimming segments, less so in biking.
 - There is a strong correlation between transition time and race total time. The better athletes tend to optimize the transition from one activity to another.
 - Life hack: In order to perform well overall you need to perform well in biking and running, swimming is less important for the overall rank.
+
